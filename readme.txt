@@ -39,6 +39,16 @@ git push -u origin master
 git remote add origin https://github.com/tkminh/cloud.git
 git push -u origin master
 
+
+accepted
+check the .gitignore file, if the subdirectory is ignored.
+
+then try again
+
+git add --all
+git commit -am "<commit message>"
+git push
+
 ======================================================================
 
 3. Create blue print
